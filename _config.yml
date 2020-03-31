@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-remote-theme
+  - github-pages
 
 remote_theme: daviddarnes/alembic
 
