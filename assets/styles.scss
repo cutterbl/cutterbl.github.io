@@ -1,0 +1,32 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.container {
+  width: 98%;
+  max-width: 98%;
+}
+
+@media screen and (min-width: 40em) { .content { width: 100%; } }
+
+@media screen and (min-width: 40em) { .typeset blockquote { margin: 0 1rem; } }
+
+blockquote {
+  font-weight: bold;
+  color: rgb(128, 128, 128);
+  border-left: 4px solid #000;
+  padding-left: 10px;
+}
+blockquote footer {
+  font-size: .8rem;
+}
+
+.altBQ {
+  font-weight: normal;
+  > strong {
+    color: #000;
+  }
+}
