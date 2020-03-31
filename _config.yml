@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We talk about web development, often covering the three core pillars: HTML, CSS, and Javascript. There is a lot of legacy content here, discussing everything from ColdFusion to ExtJs, as well as more current stuff like modern EcmaScript, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cutterscrossing.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
+repository: cutterbl/cutterbl.github.io
 twitter_username: cutterbl
 github_username:  cutterbl
 
