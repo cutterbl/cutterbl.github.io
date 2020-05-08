@@ -4,6 +4,7 @@ categories:
 - development
 - ecmascript
 - webaudioapi
+- soundtouchjs
 ---
 Some time back I became obsessed with writing my own browser-based Karaoke software. Those who know me know I love to sing. It's how I met my wife (a former KJ). It's how we got married (on a Karaoke stage). It's [weekend fun time](https://www.youtube.com/channel/UC42Nrsga5KEa9Wy3ftLnZ8g) with our kid.
 
