@@ -1,5 +1,5 @@
 ---
-title: SoundTouchJS
+title: Working With Audio Worklets
 categories:
 - development
 - ecmascript
