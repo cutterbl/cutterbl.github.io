@@ -24,7 +24,7 @@ Mom is the soft touch, and I'm the tough one. Occasionally we switch up, but tha
 
 ### Where We Are
 
-Fast forward to today. We've survived the school years, despite the COVID plandemic senior year. Savannah was accepted to seven different colleges, three of them right here in the Nashville area. But, Savannah wants the "full college experience", without the safety net of being close to home, so she finally decided on [Mississippi State University](https://msstate.edu). Heading off on her own into the big world to do it her way.
+Fast forward to today. We've survived the school years, despite the COVID pandemic senior year. Savannah was accepted to seven different colleges, three of them right here in the Nashville area. But, Savannah wants the "full college experience", without the safety net of being close to home, so she finally decided on [Mississippi State University](https://msstate.edu). Heading off on her own into the big world to do it her way.
 
 She qualified for a slew of scholarships, including Key Club and Choir, as well as being accepted into the [Shackouls Honors College](https://www.honors.msstate.edu/). (Yes, I'm bragging on my kid again.) It's not cheap, costing an arm, a leg, and at least one kidney. I'll also be giving up part of my liver later, due to the alcohol I'll need to consume getting through this. But, she's off to get a quality higher education.
 
