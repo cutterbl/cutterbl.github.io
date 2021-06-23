@@ -4,7 +4,7 @@ categories:
 - development
 - ecmascript
 - playwright
-- playwright-jest
+- jest-playwright
 ---
 A Long Time Ago, In A Land Far, Far Away (California), an Empire (Google) created an e-2-e testing library called [Puppeteer](https://developers.google.com/web/tools/puppeteer), and it was...OK. Many people used it, but the powers-that-be kept pulling the strings, limiting it to working against Chrome (or, more specifically, a bundled version of Chromium).
 
