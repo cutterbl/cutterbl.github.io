@@ -1,5 +1,5 @@
 ---
-title: Playwright and Playwright-Jest
+title: Playwright and Jest-Playwright
 categories:
 - development
 - ecmascript
